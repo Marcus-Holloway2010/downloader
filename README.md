@@ -69,8 +69,12 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [watch](https://github.com/Marcus-Holloway2010/downloader/tree/main/downloads/watch)
+1. [DB.Browser.for.SQLite-v3.13.1-win64](https://github.com/Marcus-Holloway2010/downloader/tree/main/downloads/DB.Browser.for.SQLite-v3.13.1-win64)
+
+2. [watch](https://github.com/Marcus-Holloway2010/downloader/tree/main/downloads/watch)
 
 ---
